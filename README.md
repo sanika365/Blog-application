@@ -60,4 +60,3 @@ or
 
 `npm run dev`
 
-*I have made this by watching this [Youtube Video](https://youtu.be/TFGEq5OZgaA)*
